@@ -1,8 +1,0 @@
-*.csharp linguiest-detectable=false
-*.java linguiest-detectable=false
-*.js linguiest-detectable=false
-*.html linguiest-detectable=false
-*.xml linguiest-detectable=false
-*.cpp linguiest-detectable=true
-
-
