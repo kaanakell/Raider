@@ -1,9 +1,9 @@
 Content/** filter=lfs diff=lfs merge=lfs -text
 .uasset filter=lfs diff=lfs merge=lfs -text
 .umap filter=lfs diff=lfs merge=lfs -text
-*.csharp linguiest-detectable=false
-*.java linguiest-detectable=false
-*.js linguiest-detectable=false
-*.html linguiest-detectable=false
-*.xml linguiest-detectable=false
-*.cpp linguiest-detectable=true
+*.csharp linguist-detectable=false
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.cpp linguist-detectable=true
